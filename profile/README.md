@@ -6,7 +6,7 @@ We are building an accounting ledger that is awesome to use. We focus on automat
 
 Subledger relies heavily on open source software and these Github repos are our attempt to give back ❤️
 
-Visit [Subledger App](https://subledger.app) to learn more us.
+Visit [Subledger App](https://subledger.app) to learn more about us.
 
 ## Projects
 
